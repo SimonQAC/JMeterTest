@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+HTTP Request-umbreon,10,325,290,358,19.68,0.000%,2.06484,342.62,0.27,169911.0
+TOTAL,10,325,290,358,19.68,0.000%,2.06484,342.62,0.27,169911.0
